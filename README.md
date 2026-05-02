@@ -1,1 +1,1 @@
-Miscellaneous files used by other projects.
+Files used by other projects.
